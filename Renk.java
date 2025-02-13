@@ -1,0 +1,5 @@
+
+interface Renk {
+
+    String boya();
+}

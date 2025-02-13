@@ -1,0 +1,5 @@
+
+interface Boyut {
+
+    String boyutlandir();
+}
